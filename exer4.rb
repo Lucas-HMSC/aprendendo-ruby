@@ -1,3 +1,4 @@
+# Author: Lucas-HMSC
 # Estrutura de Funções
 
 def muda_preco(preco) # AJuste de 10%
