@@ -8,5 +8,4 @@ def muda_preco(preco)
 end
 
 
-preco = 100
-muda_preco(preco) # 110.0
+muda_preco(100) # 110.0
