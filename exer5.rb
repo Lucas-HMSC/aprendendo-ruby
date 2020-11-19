@@ -8,3 +8,7 @@ if a > b
 else
     puts "b é maior que a"
 end
+
+# ou
+
+puts "Forma condicional inline" if a > b
