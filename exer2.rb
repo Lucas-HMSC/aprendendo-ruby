@@ -4,4 +4,4 @@
 
 nome = nil
 
-puts nome.nil? # Retorna true pois é nulo
+puts nome.nil? # true
